@@ -1,0 +1,9 @@
+Changed database context to 'Filmes'.
+Nome                                               Ano         Duracao    
+-------------------------------------------------- ----------- -----------
+Boogie Nights - Prazer Sem Limites                        1997         155
+Princesa Mononoke                                         1997         134
+Titanic                                                   1997         194
+Gênio Indomável                                           1997         126
+
+(4 rows affected)

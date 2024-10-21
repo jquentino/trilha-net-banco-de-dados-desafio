@@ -1,0 +1,6 @@
+Changed database context to 'Filmes'.
+Nome                                               Ano         Duracao    
+-------------------------------------------------- ----------- -----------
+De Volta para o Futuro                                    1985         116
+
+(1 rows affected)

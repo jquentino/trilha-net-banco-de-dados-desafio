@@ -1,0 +1,6 @@
+USE FILMES;
+GO
+
+SELECT * FROM Atores
+WHERE Genero='M';
+GO

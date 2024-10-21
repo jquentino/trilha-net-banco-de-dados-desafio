@@ -1,0 +1,21 @@
+Changed database context to 'Filmes'.
+Nome                                               Ano         Duracao    
+-------------------------------------------------- ----------- -----------
+Os Suspeitos                                              1995         106
+Amargo pesadelo                                           1972         109
+Donnie Darko                                              2001         113
+De Volta para o Futuro                                    1985         116
+Blade Runner                                              1982         117
+Uma Vida sem Limites                                      2004         118
+Quem Quer Ser um Milionário?                              2008         120
+Beleza Americana                                          1999         122
+A Viagem de Chihiro                                       2001         125
+Gênio Indomável                                           1997         126
+Um Corpo que Cai                                          1958         128
+Chinatown                                                 1974         130
+O Grande Truque                                           2006         130
+Princesa Mononoke                                         1997         134
+Aliens, O Resgate                                         1986         137
+Um Sonho de Liberdade                                     1994         142
+
+(16 rows affected)

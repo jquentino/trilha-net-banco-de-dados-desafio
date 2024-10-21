@@ -1,0 +1,8 @@
+Changed database context to 'Filmes'.
+Nome                                               Genero              
+-------------------------------------------------- --------------------
+De Olhos Bem Fechados                              Mistério            
+A Viagem de Chihiro                                Mistério            
+Um Corpo que Cai                                   Mistério            
+
+(3 rows affected)

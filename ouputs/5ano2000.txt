@@ -1,0 +1,11 @@
+Changed database context to 'Filmes'.
+Nome                                               Ano         Duracao    
+-------------------------------------------------- ----------- -----------
+O Grande Truque                                           2006         130
+Donnie Darko                                              2001         113
+Quem Quer Ser um Milionário?                              2008         120
+Uma Vida sem Limites                                      2004         118
+Avatar                                                    2009         162
+A Viagem de Chihiro                                       2001         125
+
+(6 rows affected)
